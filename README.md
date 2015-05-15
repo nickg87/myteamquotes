@@ -1,7 +1,7 @@
-Inspirational Quotes for Teams in Space
+Inspirational Quotes from Your Team in Space
 --------------------------------
 
-This page lists the inspirational quotes of you and your team in space.
+This page lists the inspirational quotes for you and your team in space.
 This is a family-oriented team, so only post stuff you are comfortable
 showing to your family. If your family is seriously abnormal, my
 condolences, and I'm going to reject your sadly twisted pull request.
