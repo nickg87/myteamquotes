@@ -1,15 +1,15 @@
-Favorite Quotes from Bitbuckeneers
+Inspirational Quotes for Teams in Space
 --------------------------------
 
-This page lists the favorite quotes from any Bitbuckeer that cares to
-contribute. This is a family-oriented site, so only post stuff you are
-comfortable showing to your family. If your family is seriously abnormal, my
+This page lists the inspirational quotes of you and your team in space.
+This is a family-oriented team, so only post stuff you are comfortable
+showing to your family. If your family is seriously abnormal, my
 condolences, and I'm going to reject your sadly twisted pull request.
 
 To add a quote, edit `editme.html`. Please do not edit any other files.
 
 The page is hosted under:
-[http://tutorials.bitbucket.org](http://tutorials.bitbucket.org)
+[http://tutorials.git.bitbucket.org](http://tutorials.git.bitbucket.org)
 
 Images are encouraged, but should not be committed to this repo. So please
 link directly to externally hosted content.
@@ -22,7 +22,7 @@ Please don't change another user's quote as I'll reject that as well. After
 all, some quotes are meaningful to the people who submit them.
 
 **NOTE**: For some reason many editors are placing an additional space before
-the start tag for the file `<!--`. This causese our parser to reject the pull request.
+the start tag for the file `<!--`. This causes our parser to reject the pull request.
 You can check for this error after you push your change to your repository by doing 
 the following. 
 
