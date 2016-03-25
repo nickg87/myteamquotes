@@ -1,0 +1,13 @@
+diff a/editme.html b/editme.html	(rejected hunks)
+@@ -15,6 +15,11 @@
+ 
+ <meta charset="UTF-8">
+ 
++    <div class="quote">
++      <blockquote>Never pee in the wind</blockquote>
++      <cite>God</cite>
++  </div>
++
+   <div class="quote">
+       <blockquote>In the beginning, God said, the four dimensional diversions of anti-symmetrical second rank tensor equals zero, and there was light</blockquote>
+       <cite>Michio Kaku</cite>
