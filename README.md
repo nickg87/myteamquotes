@@ -16,7 +16,7 @@ link directly to externally hosted content.
 
 The `editme.html` is in XHTML format. This is a little stricter than HTML and
 among other things requires every tag to be explicitly closed. For the
-`<img />` tag that means is MUST end with `/>`.
+`<img />` tag that means it MUST end with `/>`.
 
 Please don't change another user's quote as I'll reject that as well. After
 all, some quotes are meaningful to the people who submit them.
@@ -31,8 +31,8 @@ the following.
 3. Click **Edit**.
 4. Look for a red dot next to the start tag `<!--`.
 
-	a. If there is a red dot, place your cursor between it and the `<!--` and press backspace or delete 
-	   to remove the extra space.
+	a. If there is a red dot, place your cursor between it and the `<!--` and press 
+           backspace or delete to remove the extra space.
 	   
 	b. If there is no red dot you should be fine. 
 	
